@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ziyue am a student of the National PhD Programme in Artificial Intelligence at Polytechnic Institute of Turin and University of Verona, in Italy. Her research interests span the broad fields of machine learning and neural networks, with a particular focus on generative AI, multi-modal understanding, explainability and continual learning.
+Ziyue is a student of the National PhD Programme in Artificial Intelligence at Polytechnic Institute of Turin and University of Verona, in Italy. Her research interests span the broad fields of machine learning and neural networks, with a particular focus on generative AI, multi-modal understanding, explainability and continual learning.

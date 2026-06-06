@@ -1,0 +1,23 @@
+{% if site.news.size > 0 %}
+<div class="news">
+  {% if include.scrollable %}
+  <div class="scrollable-news">
+  {% endif %}
+    <ul class="news-list">
+      {% assign news = site.news | reverse %}
+      {% if include.limit %}
+        {% assign news = news | slice: 0, include.limit %}
+      {% endif %}
+      {% for item in news %}
+      <li class="news-item">
+        <div class="news-content">
+          {{ item.content | markdownify }}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  {% if include.scrollable %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}

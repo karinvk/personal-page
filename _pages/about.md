@@ -27,3 +27,15 @@ latest_posts:
 Ziyue Liu is a Ph.D. candidate of the National Programme in Artificial Intelligence in Italy. The program is co-hosted by the Polytechnic Institute of Turin and the University of Verona. Currently, she is a visiting student in the Machine Learning Department at the Mohamed bin Zayed University of Artificial Intelligence. 
 
 Her research interests span the broad fields of machine learning and neural networks, with a particular focus on generative AI, multi-modal understanding, explainability, and continual learning. With experience leading projects across various industries, she is passionate about leveraging her domain knowledge, data management, and machine learning expertise to create positive, data-driven change for organizations.
+
+<style>
+    .bibliography .author { 
+        display: none !important; 
+    }
+    .bibliography .badges { 
+        display: none !important; 
+    }
+    .bibliography .abbr {
+        display: none !important;
+    }
+</style>

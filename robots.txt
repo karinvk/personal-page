@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://karinvk.github.io/sitemap.xml
+Sitemap: https://karinvk.github.io/personal-page//sitemap.xml

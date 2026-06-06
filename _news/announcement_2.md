@@ -4,4 +4,4 @@ inline: true
 related_posts: false
 ---
 
-Evaluating Attribute Confusion in Fashion Text-to-Image Generation (ICIAP 2025)
+Seeing the Abstract: Translating the Abstract Language for Vision Language Models (CVPR 2025)

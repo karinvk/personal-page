@@ -18,3 +18,15 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<style>
+    .bibliography .author { 
+        display: none !important; 
+    }
+    .bibliography .badges { 
+        display: none !important; 
+    }
+    .bibliography .abbr {
+        display: none !important;
+    }
+</style>
